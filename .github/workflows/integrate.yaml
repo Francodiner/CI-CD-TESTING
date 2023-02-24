@@ -2,7 +2,7 @@ name: "Integracion continua con node.js"
 
 on: 
   pull_request: 
-    branches: [master]
+    branches: [main]
 
 jobs:
   ci_to_master:
